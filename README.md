@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on MoonboardAI
-- 🌱 Learning at the moment: Pandas library
+- 🌱 Learning at the moment: Machine Learning/PyTorch
 - 💬 Ask me about my cat :)
 
 
