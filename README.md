@@ -1,6 +1,3 @@
-<img width="512" height="170" alt="github_banner_cropped" src="https://github.com/user-attachments/assets/95a530ff-1750-4d3a-9d62-5c03238e5ca0" /> <br/>
-
-
 - 🔭 I’m currently working on my openclaw bot, Jarvis
 - 🌱 Learning at the moment: Machine Learning/PyTorch
 - 💬 Ask me about my cat :)
