@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on my openclaw bot, Jarvis
-- 🌱 Learning at the moment: Machine Learning/PyTorch
+- 🔭 I’m currently working on my multi-agent orchestration personal assistant, Jarvis
+- 🌱 Learning at the moment: Machine Learning/PyTorch + Multi-Agent MAO
 - 💬 Ask me about my cat :)
 
 
