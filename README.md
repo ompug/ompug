@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on my multi-agent orchestration personal assistant, Jarvis
+- 🔭 I’m currently working on my multi-agent orchestration personal assistant, Argus
 - 🌱 Learning at the moment: Machine Learning/PyTorch + Multi-Agent MAO
 - 💬 Ask me about my cat :)
 
